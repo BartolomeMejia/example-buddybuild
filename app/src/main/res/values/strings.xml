@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My First Task</string>
+    <string name="nextStep">Next step</string>
+    <string name="greeter">Greeter</string>
+    <string name="farewell">Farewell</string>
+    <string name="shared">Shared</string>
+
+</resources>

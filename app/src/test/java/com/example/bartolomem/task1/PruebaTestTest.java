@@ -14,7 +14,7 @@ public class PruebaTestTest {
 
     @Test
     public void helloWorld() {
-        Assert.assertEquals("Hola Mundo", testText.helloWorld());
+        Assert.assertEquals("Prueba completa", testText.helloWorld());
     }
 
 }

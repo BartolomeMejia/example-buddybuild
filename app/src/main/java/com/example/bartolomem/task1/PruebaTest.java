@@ -7,7 +7,7 @@ package com.example.bartolomem.task1;
 public class PruebaTest {
 
     public String helloWorld() {
-        return"Prueba con feature 3";
+        return"Prueba completa";
     }
 
 }

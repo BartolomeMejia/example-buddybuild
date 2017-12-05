@@ -10,4 +10,6 @@ public class PruebaTest {
         return"Prueba completa";
     }
 
+    public int suma(){ return 2 + 2; }
+
 }

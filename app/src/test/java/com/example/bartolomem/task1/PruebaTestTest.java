@@ -3,8 +3,6 @@ package com.example.bartolomem.task1;
 import org.junit.Assert;
 import org.junit.Test;
 
-import static org.junit.Assert.*;
-
 /**
  * Created by BartolomeM on 4/12/2017.
  */
@@ -17,4 +15,6 @@ public class PruebaTestTest {
         Assert.assertEquals("Prueba completa", testText.helloWorld());
     }
 
+    @Test
+    public void suma() { Assert.assertEquals(4, testText.suma()); }
 }
